@@ -1,0 +1,23 @@
+{
+  "name": "action-debuginfo",
+  "version": "1.0.0",
+  "description": "Output useful debug information relating to the current workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacking-actions/action-debuginfo.git"
+  },
+  "keywords": [],
+  "author": "Max Hacking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacking-actions/action-debuginfo/issues"
+  },
+  "homepage": "https://github.com/hacking-actions/action-debuginfo#readme",
+  "dependencies": {
+    "@actions/exec": "^1.0.1"
+  }
+}

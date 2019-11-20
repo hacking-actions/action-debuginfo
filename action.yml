@@ -1,0 +1,8 @@
+name: 'action-debuginfo'
+description: 'Output useful debug information relating to the current workflow'
+runs:
+  using: 'node12'
+  main: 'index.js'
+branding:
+  icon: 'download'
+  color: 'purple'
